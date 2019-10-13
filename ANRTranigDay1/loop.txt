@@ -1,0 +1,20 @@
+For vs While-Do vs Do-While
+
+
+For: for loop takes three argument 
+	first:inisial point of loop
+	second : condition
+	thrird :increasing or decreasing
+	if initial point full fill the condition then entered in side the loop and in last 
+	it increase or decrease the value  of starting point of loop and again check the condition.
+	
+While-Do:
+	while-do loop check the condition in starting then if condition is true then
+	entered in side the loop.
+	
+Do-While:
+	do-while loop first perform the task after check the condition if condition is true
+	then perform task again. 
+	
+	
+	
